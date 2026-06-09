@@ -24,24 +24,24 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Juan Pablo Passetti "
+  pronouns         : # example: "He"  
+  bio              : "Juan Pablo Passetti is a biologist and PhD candidate at the University of Urbino Carlo Bo. His research focuses on marine pollution, ecosystem monitoring, and the ecological effects of human-driven environmental change. He combines field-based research with quantitative approaches, including multivariate statistics, GIS, and data science tools in R and Python, to investigate complex ecological systems. His current work in the Adriatic Sea explores marine litter dynamics and environmental monitoring frameworks. He is also a certified Scientific Professional Diver with experience in underwater ecological surveys and molecular ecology."
+  location         : "Italy"
+  employer         : "University of Urbino Carlo Bo, Urbino, Italy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "juanpassetti@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-0483-7622"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
